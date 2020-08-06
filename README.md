@@ -14,8 +14,6 @@
 </br>
 - 🤔 I’m looking for help with Freelancing 
 </br>
-- 😄 Pronouns: He/His
-</br>
 - ⚡ Fun fact: We are Eternal All this pain is an illusion (not funny? well...)
 
 ### Connect with me:
