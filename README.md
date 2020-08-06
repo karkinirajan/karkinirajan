@@ -1,7 +1,5 @@
 ## नमस्ते ! 🙏 I am Nirajan Karki
 ### A Self Taught Web Developer, A Learner Becoming a Pneuma.
-</br>
-
 <img align="right" src="https://github.com/kneeraazon01/kneeraazon/blob/master/coding.gif" width="50%"/>
 </br>
 - 🔭 I’m currently working on [Building A News Web App](https://github.com/kneeraazon01/NewsWebSite/)
