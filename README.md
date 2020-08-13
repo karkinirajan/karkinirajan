@@ -31,9 +31,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python" />](https://www.python.org/)
+[<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django" />](https://www.djangoproject.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux" />](https://www.linux.org/)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
-[<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django" />](https://www.djangoproject.com/)
-
 
