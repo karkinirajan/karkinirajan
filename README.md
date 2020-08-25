@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
 </br>
-- 🔭 I’m currently working on [Building A News Web App](https://github.com/kneeraazon01/NewsWebSite/)
+- 🔭 I’m currently working on [Building A News Web App](https://github.com/kneeraazon01/webNewsNepal/)
 </br>
 - 💻 I Recently Created A Webapp For a Youtube Channel Promtoion(https://foodandbeveragenepal.media/)
 </br>
