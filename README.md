@@ -6,7 +6,7 @@
 </br>
 - 🔭 I’m currently working on [Building A News Web App](https://github.com/kneeraazon01/webNewsNepal/)
 </br>
-- 💻 I Recently Created A Webapp For a Youtube Channel Promtoion(https://foodandbeveragenepal.media/)
+- 💻 I Recently Created A Webapp For a Youtube Channel Promtoion(http://foodandbeveragenepal.herokuapp.com/)
 </br>
 - ⚡️  I'm Currently Learning DjangoREST Framework, TailwindCSS, GatsbyJs, NextJs, Wordpress, ReactJS, NodeJS and Design
 </br>
