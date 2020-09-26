@@ -20,9 +20,10 @@
 
 ### Connect with me:
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/kneeraazon) [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>](https://stackoverflow.com/users/10686964/nirajan-karki) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nirajan-karki-8ba32b171/) [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="3.5%" alt="Sourcerer">](https://sourcerer.io/kneeraazon01/) [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/kneeraazon/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/kneeraazon)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nirajan-karki-8ba32b171/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/kneeraazon/)
 [<img src="https://img.icons8.com/color/48/000000/codepen.png" width="3.5%"/>](https://www.codepen.com/kneeraazon01/)
-[<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](https://www.youtube.com/channel/UCNQHnpo_lRWvE9lMkzljdBA?view_as=subscriber)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/kneeraazon/)
 
 ### Languages and Tools:
