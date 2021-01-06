@@ -8,7 +8,7 @@
 </br>
 - 💻 I Recently Created A Webapp For a Youtube Channel Promtoion(http://foodandbeveragenepal.herokuapp.com/)
 </br>
-- ⚡️  I'm Currently Learning DjangoREST Framework, TailwindCSS, GatsbyJs, NextJs, Wordpress, ReactJS, NodeJS and Design
+- ⚡️  I'm Currently Learning DjangoREST Framework, TailwindCSS, GatsbyJs, NextJs, ReactJS, NodeJS and Design
 </br>
 - 👯 I’m looking to collaborate on Building Cool Web Apps 
 </br>
