@@ -1,6 +1,6 @@
 ## नमस्ते ! 🙏 I am Nirajan Karki
 
-### A Self Taught FullStack Developer, A Tech Enthusiast and A Learner.
+### A Self Taught Full Stack Web Developer, A Tech Enthusiast and A Learner.
 
 <img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
 </br>
