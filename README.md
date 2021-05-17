@@ -1,22 +1,22 @@
-## नमस्ते ! 🙏 I am Nirajan Karki
+## नमस्ते ! 🙏 Nirajan Karki here
 
 ### A Self Taught Full Stack Web Developer, A Tech Enthusiast and A Learner.
 
 <img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
 </br>
-- 🔭 I’m currently working on [Building A News Web App](https://github.com/kneeraazon01/webNewsNepal/)
+- 🔭 I’m currently working on [Building A News Web App] (https://github.com/kneeraazon01/webNewsNepal/)
 </br>
-- 💻 I Recently Created A Webapp For a Youtube Channel Promtoion(http://foodandbeveragenepal.herokuapp.com/)
+- 💻 I Recently Created A Webapp For a Youtube Channel Promtoion (http://foodandbeveragenepal.herokuapp.com/)
 </br>
-- ⚡️  I'm Currently Learning DjangoREST Framework, TailwindCSS, GatsbyJs, NextJs, ReactJS, NodeJS and Design
+- ⚡️  I'm Currently Learning DjangoREST Framework, TailwindCSS, GatsbyJs, NextJs, ReactJS, NodeJS and UI Design
 </br>
-- 👯 I’m looking to collaborate on Building Cool Web Apps 
+- 👯 I’m looking to collaborate on building cool Web Apps 
 </br>
 - 💬 Ask me about Python, JavaScript, Django, ReactJS, CSS, TailwindCSS
 </br>
 - 🤔 I’m looking for help with Freelancing 
 </br>
-- ⚡ Fun fact: We are Eternal All this pain is an illusion (not funny? well...)
+- ⚡ Fun fact: The Mona Lisa has no eyebrows ...)
 
 ### Connect with me:
 
