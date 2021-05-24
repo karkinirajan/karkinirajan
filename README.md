@@ -1,7 +1,10 @@
-## नमस्ते ! 🙏 Nirajan Karki here <p align="right"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraazon" /> </p>
-### A Self Taught Full Stack Web Developer, A Tech Enthusiast and A Learner.
-
+<h1 align="center">Hi 👋,Nirajan Karki Here!!</h1>
+<h3 align="center">&lt; I eat, I sleep Rest of the time I code & Repeat &gt;</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rupam-shil" alt="rupam-shil" /> </p>
+ 
 <img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
+
+th="50%"/>
 </br>
 - 🔭 I’m currently working on [Building A News Web App] (https://github.com/kneeraazon01/webNewsNepal/)
 </br>
