@@ -89,7 +89,7 @@
   
 </p>
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kneeeraazonl&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=kneeraazon&theme=synthwave">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kneeeraazon01&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=kneeraazon01&theme=synthwave">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=kneeraazon&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img src="https://activity-graph.herokuapp.com/graph?username=kneeraazon01&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
