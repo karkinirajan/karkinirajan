@@ -16,7 +16,9 @@
 - 🤔 I’m looking for help with Freelancing 
 </br>
 - ⚡ Fun fact: The Mona Lisa has no eyebrows ...)
-
+</br>
+</br>
+</br>
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
 <tr>
