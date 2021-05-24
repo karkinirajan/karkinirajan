@@ -17,8 +17,8 @@
 
 - 📫 How to reach me **kneeraazon@gmail.com**
 
-- 👨‍ More Abuot me **https://nirajankarki.com.np/**
-<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+- 👨‍ More Abuot me **https://nirajankarki.com.np/about**
+<h2 align='center'><i>💻 My Tech Stack 💻</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
