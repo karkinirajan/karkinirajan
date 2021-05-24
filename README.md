@@ -1,8 +1,5 @@
-## नमस्ते ! 🙏 Nirajan Karki here
-
+## नमस्ते ! 🙏 Nirajan Karki here <p align="center"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraazon" /> </p>
 ### A Self Taught Full Stack Web Developer, A Tech Enthusiast and A Learner.
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraazon" /> </p>
 
 <img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
 </br>
