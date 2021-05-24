@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋,Nirajan Karki Here!!</h1>
 <h3 align="center">&lt; Self Taught Full Stack Web Developer &gt;</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraa1on02" /> </p>
- 
- ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
-
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
@@ -34,12 +31,12 @@
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/django.svg/1184px-django._Logo_2.svg.png" width="60">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/react.svg/1200px-react.svg.png" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
