@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋,Nirajan Karki Here!!</h1>
+<h1 align="center">Hi 👋, Nirajan Karki Here!!</h1>
 <h3 align="center">&lt; Self Taught Full Stack Web Developer &gt;</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraazon" /> </p>
  
 <img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
 </br>
-- 🔭 I’m currently working on [Building A News Web App] (https://github.com/kneeraazon01/webNewsNepal/)
+- 🔭 I’m currently working on "NextJS and Django"
 </br>
 - 💻 I Recently Created A Webapp For a Youtube Channel Promtoion (http://foodandbeveragenepal.herokuapp.com/)
 </br>
@@ -12,7 +12,7 @@
 </br>
 - 👯 I’m looking to collaborate on building cool Web Apps 
 </br>
-- 💬 Ask me about Python, JavaScript, Django, ReactJS, CSS, TailwindCSS
+- 💬 Ask me about Python, JavaScript, Django, ReactJS, CSS, TailwindCSS and NextJS
 </br>
 - 🤔 I’m looking for help with Freelancing 
 </br>
