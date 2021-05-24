@@ -79,7 +79,7 @@
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/rupam.shil.14" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
+    <a target= "_blank" href="https://www.facebook.com/kneeraazon" alt="Facebook"><img height='45' src="https://github.com/kneeraazon/blob/master/facebook.png"></a>
     <a target= "_blank" href="https://github.com/Rupam-Shil/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
     <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
     <a target= "_blank" href="https://www.instagram.com/mlbackbenchers/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
@@ -89,7 +89,7 @@
   
 </p>
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kneeeraazonl&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=kneeraazon&theme=synthwave">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Rupam-Shil&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img src="https://activity-graph.herokuapp.com/graph?username=kneeraazon&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
