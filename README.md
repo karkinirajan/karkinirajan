@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, Nirajan Karki Here!!</h1>
+<h1 align="center">Hi 👋,Nirajan Karki Here!!</h1>
 <h3 align="center">&lt; Self Taught Full Stack Web Developer &gt;</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraazon" /> </p>
-<img align="right" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="50%"/>
-</br>
-- 🔭 I’m currently working on "NextJS and Django"
-</br>
-- 💻 I Recently Created A Webapp For a Youtube Channel Promtoion (http://foodandbeveragenepal.herokuapp.com/)
-</br>
-- ⚡️  I'm Currently Learning DjangoREST Framework, TailwindCSS, GatsbyJs, NextJs, ReactJS, NodeJS and UI Design
-</br>
-- 👯 I’m looking to collaborate on building cool Web Apps 
-</br>
-- 💬 Ask me about Python, JavaScript, Django, ReactJS, CSS, TailwindCSS and NextJS
-</br>
-- 🤔 I’m looking for help with Freelancing 
-</br>
-- ⚡ Fun fact: The Mona Lisa has no eyebrows ...)
-</br>
-</br>
-</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kneeraazon01" alt="kneeraa1on02" /> </p>
+ 
+ ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
+
+
+- 🔭 I’m currently working on **Full Stack Web Development**
+
+- 👯 I’m looking to collaborate on <strong>Developing Cool Web Apps</strong></a>
+
+- 🤔 I’m looking for help with **Freelancing**
+
+- 👨‍💻 All of my projects are available at [https://github.com/kneeraazon01?tab=repositories](https://github.com/kneeraazon01?tab=repositories)
+
+- 💬 Ask me about **Django,ReactJS, Javascript, NextJS, Python**
+
+- 📫 How to reach me **kneeraazon@gmail.com**
+
+- 👨‍ More Abuot me **https://nirajankarki.com.np/**
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
 <tr>
@@ -80,12 +79,12 @@
 
 
 <p align="center">
-  <i>Let's connect and chat! Open to Anyone, Anytime</i>
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/kneeraazon" alt="Facebook"><img height='45' src="https://github.com/kneeraaazon/blob/master/facebook.png"></a>
-    <a target= "_blank" href="https://github.com/kneeraazon01/" alt="Github"><img height='45' src="hhttps://github.com/kneeraazon01/blob/master/github.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/kneeraazon/blob/master/instagram.png"></a>
+    <a target= "_blank" href="https://www.facebook.com/rupam.shil.14" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
+    <a target= "_blank" href="https://github.com/Rupam-Shil/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
+    <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
     <a target= "_blank" href="https://www.instagram.com/mlbackbenchers/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/rupam-shil/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
     
@@ -97,4 +96,3 @@
 <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Rupam-Shil&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-
