@@ -81,7 +81,7 @@
   <p align="center">
     <a target= "_blank" href="https://www.facebook.com/kneeraazon" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
     <a target= "_blank" href="https://github.com/kneeraazon/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/kneeraazon/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
+    <a target= "_blank" href="https://www.twitter.com/kneeraazon/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/twitter.png"></a>
     <a target= "_blank" href="https://www.instagram.com/kneeraazon/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/kneeraazon/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
     
