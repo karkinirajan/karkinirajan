@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kneeraazon01&langs_count=3)
 <p>
-  <a href="#"><img height="450" align="center" src="https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2017/miscellaneous/pmishra-03082017071917.jpg&w=900&height=601"></a>
+  <a href="#"><img height="450" align="center" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif"></a>
 </p>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=kneeraazon01&label=Views&color=brightgreen&style=plastic)
