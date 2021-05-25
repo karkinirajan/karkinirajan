@@ -4,7 +4,7 @@
 - 📫 How to reach me: kneeraazon@gmail.com
 - ⚡ Fun fact: Mona Lisa has no eyebrows.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kneeraazon01&count_private=true&show_icons=true&theme=great-gatsby&locale=np&custom_title= My stats dekho toh sahi)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kneeraazon01&count_private=true&show_icons=true&theme=great-gatsby&locale=np&custom_title=मेरो+GitHub+तथ्याङ्क)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kneeraazon01&langs_count=3)
 <p>
