@@ -6,16 +6,11 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kneeraazon01&count_private=true&show_icons=true&theme=great-gatsby&locale=np&custom_title=मेरो+GitHub+तथ्याङ्क)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kneeraazon01&langs_count=3)
-<p>
-  <a href="#"><img height="450" align="center" src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif"></a>
-</p>
-<br>
-![GitHub Views](https://komarev.com/ghpvc/?username=kneeraazon01&label=Views&color=brightgreen&style=plastic)
-[![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/kneeraazon/)
-[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kneeraazon)
-[![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/kneeraazon/?hl=en)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kneeraazon/)
+![GitHub Views](https://komarev.com/ghpvc/?username=kiranparajuli589&label=Views&color=brightgreen&style=plastic)
+[![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/kiran.parajuli.589/)
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/KiranParajuli16)
+[![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/kiran.parajuli589/?hl=en)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kiranparajuli589/)
 [![Website](https://img.shields.io/badge/Website-know%20more-blue)](https://nirajankarki.com.np)
 
 <br />
