@@ -1,6 +1,4 @@
-### Hi there
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave">
-<br>
+### Hi there <img src="https://github.com/kneeraazon01/Settings-and-DotFiles/blob/master/coding.gif" width="30px" alt="Wave">
 - 🔭 I’m currently working on JankariTech Pvt. Ltd.
 - 🌱 I’m currently learning software development with quality assurance
 - 📫 How to reach me: kiranparajuli589@gmail.com
