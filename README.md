@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Nirajan Karki
-- 🔭 I’m currently working on Merohealth 
-- 🌱 I’m currently learning NextJS
+- 🔭 I’m currently working on Rebuilding My Portfolio with Next.JS 
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: kneeraazon@gmail.com
 - ⚡ Fun fact: Mona Lisa has no eyebrows.
 
