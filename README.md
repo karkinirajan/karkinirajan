@@ -1,8 +1,8 @@
 ### Hi there 👋 It's Nirajan Karki
 - 🔭 I’m currently working on Rebuilding My Portfolio with Next.JS 
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity For Smart Contracts
 - 📫 How to reach me: kneeraazon@gmail.com
-- ⚡ Fun fact: Mona Lisa has no eyebrows.
+- ⚡ Fun fact: We are Eternal all this Pain is an Illusion.
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=kneeraazon01&label=Views&color=brightgreen&style=plastic)
 [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/kneeraazon/)
