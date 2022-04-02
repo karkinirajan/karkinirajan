@@ -26,7 +26,6 @@
 <a href="https://www.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg" alt="vue" height='42px'/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height='42px'/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="django" height='42px'/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg" alt="django" height='42px'/> </a>
 
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
