@@ -4,8 +4,6 @@
 - 📫 How to reach me: kneeraazon@gmail.com
 - ⚡ Fun fact: We are Eternal all this Pain is an Illusion.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kneeraazon01&bg_color=040e40&color=ffffff&line=fff000&point=87094a&area=true&hide_border=true) 
-
 
 
 
