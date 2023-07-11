@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kneeraazon)
 [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/kneeraazon/?hl=en)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kneeraazon/)
-[![Website](https://img.shields.io/badge/Website-know%20more-blue)](https://nirajankarki.com.np)
+[![Website](https://img.shields.io/badge/Website-know%20more-blue)](https://kneeraazon.me)
 
 ### Languages and Tools:
 
