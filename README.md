@@ -6,7 +6,6 @@ Full Stack Developer (Python/React)
 
 I am a Python React Full Stack Developer with 6+ years of experience. I possess expertise in front-end and back-end technologies, including React.js, Python, Node.js, Express.js, RESTful APIs, PostgreSQL, MongoDB, and AWS. I have a proven track record of delivering high-quality software products on time and within budget. I am an excellent communicator, problem-solver, and collaborator passionate about writing clean, efficient, and maintainable code.
 
-* 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Portfolio](http://kneeraazon.me)
 * ✉️  You can contact me at [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)
 * 🚀  I'm currently working on [Rebuilding my portfolio site with NextJS](http://kneeraazon.me)
