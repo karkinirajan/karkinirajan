@@ -1,4 +1,4 @@
-Hi 👋 This is is Nirajan Karki
+Hi 👋 This is Nirajan Karki
 ==============================
 
 Full Stack Developer (Python/React)
