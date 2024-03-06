@@ -1,7 +1,7 @@
 Hi 👋 This is Nirajan Karki
 ==============================
 
-Full Stack Developer (Python/React)
+Backend Developer - Python
 -----------------------------------
 
 I am a Python React Full Stack Developer with 6+ years of experience. I possess expertise in front-end and back-end technologies, including React.js, Python, Django, Flask, DRF, RESTful APIs, PostgreSQL, MongoDB, and AWS.
