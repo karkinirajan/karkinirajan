@@ -1,8 +1,6 @@
-Here’s a more professional and polished version of your README profile:
-
 ---
 
-# Hi 👋 I'm Nirajan Karki
+# Hi 👋 I'm Nirajan Karki  
 **Senior Python Developer | Full Stack Engineer**  
 ---
 
@@ -16,33 +14,37 @@ I am an experienced Full Stack Developer with over 6 years of expertise in build
 - Exploring **Generative AI** and **Large Language Models (LLMs)** for cutting-edge software development
 - Open to collaborations in **AI-powered solutions** and **web development**
 
-### 🛠 **Technical Skills**
-  
-- **Languages & Frameworks**:  
-  ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)  
-  ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)  
-  ![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)  
-  ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)  
-  ![Next.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg)  
-  ![TailwindCSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)  
-  ![FastAPI](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg)  
-  ![GraphQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg)
+---
 
-- **Databases & Cloud Services**:  
-  ![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg)  
-  ![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg)  
-  ![Heroku](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg)  
-  ![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg)
+### ✨ **Specializations**
 
-- **Tools**:  
-  ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)
+- 🐍 Python  
+- 🌐 Django  
+- 🚀 Django REST Framework  
+- 🗄️ PostgreSQL  
+
+### 🔧 **Technical Skills**
+
+- 🔗 API Development  
+- 🗃️ Database Design and Management  
+- 📊 Data Structures and Algorithms  
+- 🏗️ Web Application Architecture  
+- 🛠️ Code Optimization and Debugging  
+
+### 📚 **Additional Technologies and Libraries**
+
+- 🗄️ **Databases**: MongoDB, PostgreSQL  
+- 🎨 **Frontend**: React, Next.js  
+- 🌐 **Web Servers**: Nginx, Apache  
+- 📦 **Python Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask  
+- 🤖 **AI and NLP**: GPT, OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and more  
 
 ---
 
 ### 🖥 **Portfolio & Contact**
 
 - **Portfolio**: [Explore my work here](http://kneeraazon.mom)
-- **Email**: [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)  
+- **Email**: [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)
 
 ---
 
@@ -56,4 +58,6 @@ I am an experienced Full Stack Developer with over 6 years of expertise in build
 ---
 
 I’m always open to discussing exciting projects or new opportunities. Feel free to reach out!
+
+---
 
