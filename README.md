@@ -1,7 +1,7 @@
 
 # Hi 👋 I'm Nirajan Karki  
 **Senior Python Developer | Full Stack Engineer** 
-
+---
 I am an experienced Full Stack Developer with over 6 years of expertise in building dynamic and scalable web applications. I specialize in both front-end and back-end development, working with technologies like Python, Django, React.js, and various cloud services like AWS. My focus is on creating performant and efficient software solutions for modern web applications, with a strong foundation in RESTful APIs, database management, and cloud integration.
 
 ---
