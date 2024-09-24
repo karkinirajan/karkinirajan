@@ -16,15 +16,48 @@ With over 6 years of experience, I specialize in building dynamic and scalable w
 
 ### 🔧 **Technical Skills Overview**
 
-| **Core Specializations**  | **Additional Technologies** | **Expertise**                          |
-|:-------------------------:|:---------------------------:|:--------------------------------------:|
-| Python                    | MongoDB                     | API Development                       |
-| Django                    | PostgreSQL                  | Database Design & Management          |
-| Django REST Framework      | Nginx, Apache               | Web Application Architecture          |
-| React.js                  | Next.js                     | Code Optimization & Debugging         |
-| PostgreSQL                | Pandas, NumPy               | Data Structures & Algorithms          |
-| AI & LLMs                 | Matplotlib, Scikit-learn     | Cloud Integration (AWS)               |
-| FastAPI, Flask             | TensorFlow, GPT, OpenAI     | AI & NLP (LangChain, RAG)             |
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th style="background-color:#f5a623; color:#fff;">Core Specializations</th>
+    <th style="background-color:#4a90e2; color:#fff;">Additional Technologies</th>
+    <th style="background-color:#50e3c2; color:#fff;">Expertise</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>MongoDB</td>
+    <td>API Development</td>
+  </tr>
+  <tr>
+    <td>Django</td>
+    <td>PostgreSQL</td>
+    <td>Database Design & Management</td>
+  </tr>
+  <tr>
+    <td>Django REST Framework</td>
+    <td>Nginx, Apache</td>
+    <td>Web Application Architecture</td>
+  </tr>
+  <tr>
+    <td>React.js</td>
+    <td>Next.js</td>
+    <td>Code Optimization & Debugging</td>
+  </tr>
+  <tr>
+    <td>PostgreSQL</td>
+    <td>Pandas, NumPy</td>
+    <td>Data Structures & Algorithms</td>
+  </tr>
+  <tr>
+    <td>AI & LLMs</td>
+    <td>Matplotlib, Scikit-learn</td>
+    <td>Cloud Integration (AWS)</td>
+  </tr>
+  <tr>
+    <td>FastAPI, Flask</td>
+    <td>TensorFlow, GPT, OpenAI</td>
+    <td>AI & NLP (LangChain, RAG)</td>
+  </tr>
+</table>
 
 ---
 
