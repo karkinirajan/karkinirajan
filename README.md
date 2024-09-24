@@ -29,7 +29,7 @@ With over 6 years of experience, I specialize in building dynamic and scalable w
   </tr>
   <tr>
     <td>Django</td>
-    <td>PostgreSQL</td>
+    <td>Linux SysAdmin</td>
     <td>Database Design & Management</td>
   </tr>
   <tr>
