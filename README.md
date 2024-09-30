@@ -8,7 +8,7 @@ With over 6 years of experience, I specialize in building dynamic and scalable w
 
 ### 🚀 **Current Focus**
 
-- Web development with **Python** and **React**
+- Web development with **Python** / **Django** and **React**
 - Exploring **Generative AI** and **Large Language Models (LLMs)**
 - Open to collaborations in **AI-powered solutions** and **web development**
 
