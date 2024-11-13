@@ -3,15 +3,15 @@
 
 ---
 
-With over 6 years of experience, I specialize in building dynamic and scalable web applications. My expertise spans both front-end and back-end technologies, focusing on **Python**, **Django**, **React.js**, and cloud services like **AWS**. I’m passionate about creating efficient, high-performance software solutions, with a strong emphasis on **RESTful APIs**, **database management**, and **cloud integration**.
+With over six years of specialized experience, I craft dynamic, scalable web applications with precision and efficiency. My expertise spans both front-end and back-end technologies, focusing on **Python**, **Django**, **React.js**, and **AWS**. I am committed to developing high-performance software solutions with a robust foundation in **RESTful APIs**, **database management**, and **cloud integration**.
 
 ---
 
 ### 🚀 **Current Focus**
 
-- Web development with **Python** / **Django** and **React**
-- Exploring **Generative AI** and **Large Language Models (LLMs)**
-- Open to collaborations in **AI-powered solutions** and **web development**
+- Building robust applications with **Python** / **Django** and **React**
+- Delving into **Generative AI** and **Large Language Models (LLMs)**
+- Open to collaborations in **AI-driven solutions** and **innovative web development**
 
 ---
 
@@ -81,4 +81,4 @@ With over 6 years of experience, I specialize in building dynamic and scalable w
 
 ---
 
-Always open to discussing exciting projects or new opportunities! Feel free to reach out.
+I'm always open to discussing exciting projects and new opportunities. Let’s connect!
