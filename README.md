@@ -83,12 +83,7 @@ AWS      ██████████████████░░   Advanced
 - **Email**: [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)
 - **Portfolio**: [kneeraazon.com](http://kneeraazon.com)
 - **Location**: Remote
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kneeraazon404&show_icons=true&theme=radical)
-
+  
 ---
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
-
-*References available upon request*
