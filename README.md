@@ -5,85 +5,92 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)
 
-### About Me
-Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-grade web applications. Specialized in Python ecosystem with deep knowledge of modern web frameworks and cloud technologies. Passionate about creating scalable solutions that drive business growth.
+Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-grade web applications. Specialized in Python ecosystem and modern web technologies.
 
-### 🎯 Expertise
-- **Backend Development**: Python, Django, FastAPI, REST APIs
-- **Frontend Development**: React.js, Next.js, Modern JavaScript
-- **Cloud & DevOps**: AWS, Docker, CI/CD
-- **AI & ML**: LangChain, RAG, OpenAI, LLMs
-- **Database**: PostgreSQL, MongoDB, Redis
+### 💻 Technical Expertise
 
-### 💻 Tech Stack
+<table>
+  <tr>
+    <th>Core Skills</th>
+    <th>Cloud & DevOps</th>
+    <th>AI & Data</th>
+  </tr>
+  <tr>
+    <td>
+      ▪ Python/Django (Expert)<br>
+      ▪ React.js (Advanced)<br>
+      ▪ PostgreSQL/MongoDB<br>
+      ▪ REST APIs/GraphQL
+    </td>
+    <td>
+      ▪ AWS Services<br>
+      ▪ Docker/Kubernetes<br>
+      ▪ CI/CD Pipelines<br>
+      ▪ Linux/Nginx
+    </td>
+    <td>
+      ▪ LangChain/RAG<br>
+      ▪ OpenAI/LLMs<br>
+      ▪ TensorFlow<br>
+      ▪ Data Analytics
+    </td>
+  </tr>
+</table>
 
-#### Core Technologies
-```plaintext
-Python   ████████████████████   Expert
-Django   ████████████████████   Expert
-React    ██████████████████░░   Advanced
-AWS      ██████████████████░░   Advanced
-```
+### 🚀 Key Projects & Achievements
 
-#### Frameworks & Tools
-- **Backend**: Django REST Framework, FastAPI, Flask
-- **Frontend**: Next.js, Redux, TypeScript
-- **Database**: PostgreSQL, MongoDB, Redis
-- **DevOps**: Docker, Kubernetes, Jenkins
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-- **Cloud**: AWS (EC2, S3, Lambda, RDS)
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Impact</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td>AI Content Platform</td>
+    <td>
+      ▪ 100K+ daily requests<br>
+      ▪ Enhanced accuracy with RAG
+    </td>
+    <td>Python, FastAPI, React, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>E-commerce Analytics</td>
+    <td>
+      ▪ 1M+ daily transactions<br>
+      ▪ 60% faster loading time
+    </td>
+    <td>Django, React, AWS</td>
+  </tr>
+</table>
 
-### 🚀 Current Focus
-- Developing scalable microservices architectures
-- Implementing AI-powered solutions using LLMs
-- Building high-performance web applications
-- Optimizing cloud infrastructure and costs
+### 🎯 Current Focus & Expertise
 
-### 🎯 Key Projects
-
-#### AI Content Platform
-- Built end-to-end content generation platform using OpenAI GPT
-- Implemented RAG for enhanced accuracy
-- Scaled to handle 100K+ daily requests
-- Tech: Python, FastAPI, React, PostgreSQL
-
-#### E-commerce Analytics Dashboard
-- Developed real-time analytics system
-- Processed 1M+ daily transactions
-- Reduced loading time by 60%
-- Tech: Django, React, AWS
-
-### 💡 Core Competencies
-
-#### Technical Leadership
-- System Architecture Design
-- Performance Optimization
-- Code Review & Mentoring
-- Technical Documentation
-
-#### Development Practices
-- Test-Driven Development
-- Agile Methodologies
-- CI/CD Implementation
-- Security Best Practices
-
-### 📈 Achievements
-- Reduced system response time by 70% through optimization
-- Implemented microservices architecture saving $50K annually
-- Led team of 5 developers in successful project delivery
-- Published multiple technical articles and tutorials
-
-### 🤝 Open for Opportunities
-- Full Stack Development Projects
-- AI/ML Integration
-- Technical Consultancy
-- Team Leadership Roles
+<table>
+  <tr>
+    <th>Current Focus</th>
+    <th>Core Competencies</th>
+  </tr>
+  <tr>
+    <td>
+      ▪ Microservices Architecture<br>
+      ▪ AI-powered Solutions<br>
+      ▪ High-performance Apps<br>
+      ▪ Cloud Optimization
+    </td>
+    <td>
+      ▪ System Architecture<br>
+      ▪ Performance Optimization<br>
+      ▪ Technical Leadership<br>
+      ▪ Agile Development
+    </td>
+  </tr>
+</table>
 
 ### 📫 Contact
 - **Email**: [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)
 - **Portfolio**: [kneeraazon.com](http://kneeraazon.com)
 - **Location**: Remote
-  
+
 ---
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
