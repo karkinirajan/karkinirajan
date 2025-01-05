@@ -1,84 +1,95 @@
-# Hi 👋 I'm **Nirajan Karki**  
-### **Senior Python Developer | Full Stack Engineer**
+# Nirajan Karki
+## Senior Python Developer & Full Stack Engineer
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kneeraazon404)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)
 
-With over six years of specialized experience, I craft dynamic, scalable web applications with precision and efficiency. My expertise spans both front-end and back-end technologies, focusing on **Python**, **Django**, **React.js**, and **AWS**. I am committed to developing high-performance software solutions with a robust foundation in **RESTful APIs**, **database management**, and **cloud integration**.
+### About Me
+Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-grade web applications. Specialized in Python ecosystem with deep knowledge of modern web frameworks and cloud technologies. Passionate about creating scalable solutions that drive business growth.
 
----
+### 🎯 Expertise
+- **Backend Development**: Python, Django, FastAPI, REST APIs
+- **Frontend Development**: React.js, Next.js, Modern JavaScript
+- **Cloud & DevOps**: AWS, Docker, CI/CD
+- **AI & ML**: LangChain, RAG, OpenAI, LLMs
+- **Database**: PostgreSQL, MongoDB, Redis
 
-### 🚀 **Current Focus**
+### 💻 Tech Stack
 
-- Building robust applications with **Python** / **Django** and **React**
-- Delving into **Generative AI** and **Large Language Models (LLMs)**
-- Open to collaborations in **AI-driven solutions** and **innovative web development**
+#### Core Technologies
+```plaintext
+Python   ████████████████████   Expert
+Django   ████████████████████   Expert
+React    ██████████████████░░   Advanced
+AWS      ██████████████████░░   Advanced
+```
 
----
+#### Frameworks & Tools
+- **Backend**: Django REST Framework, FastAPI, Flask
+- **Frontend**: Next.js, Redux, TypeScript
+- **Database**: PostgreSQL, MongoDB, Redis
+- **DevOps**: Docker, Kubernetes, Jenkins
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
+- **Cloud**: AWS (EC2, S3, Lambda, RDS)
 
-### 🔧 **Technical Skills Overview**
+### 🚀 Current Focus
+- Developing scalable microservices architectures
+- Implementing AI-powered solutions using LLMs
+- Building high-performance web applications
+- Optimizing cloud infrastructure and costs
 
-<table style="width:100%; text-align:left; border: 1px solid #ddd; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="background-color:#f5a623; color:#fff; padding: 8px; border: 1px solid #ddd;">Core Specializations</th>
-      <th style="background-color:#4a90e2; color:#fff; padding: 8px; border: 1px solid #ddd;">Additional Technologies</th>
-      <th style="background-color:#50e3c2; color:#fff; padding: 8px; border: 1px solid #ddd;">Expertise</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Python</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">MongoDB</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">API Development</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Django</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Linux SysAdmin</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Database Design & Management</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Django REST Framework</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Nginx, Apache</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Web Application Architecture</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">React.js</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Next.js</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Code Optimization & Debugging</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">PostgreSQL</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Pandas, NumPy</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Data Structures & Algorithms</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">AI & LLMs</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Matplotlib, Scikit-learn</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Cloud Integration (AWS)</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">FastAPI, Flask</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TensorFlow, GPT, OpenAI</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">AI & NLP (LangChain, RAG)</td>
-    </tr>
-  </tbody>
-</table>
+### 🎯 Key Projects
 
----
+#### AI Content Platform
+- Built end-to-end content generation platform using OpenAI GPT
+- Implemented RAG for enhanced accuracy
+- Scaled to handle 100K+ daily requests
+- Tech: Python, FastAPI, React, PostgreSQL
 
-### 🖥 **Portfolio & Contact**
+#### E-commerce Analytics Dashboard
+- Developed real-time analytics system
+- Processed 1M+ daily transactions
+- Reduced loading time by 60%
+- Tech: Django, React, AWS
 
-- **Portfolio**: [Explore my work](http://kneeraazon.com)  
+### 💡 Core Competencies
+
+#### Technical Leadership
+- System Architecture Design
+- Performance Optimization
+- Code Review & Mentoring
+- Technical Documentation
+
+#### Development Practices
+- Test-Driven Development
+- Agile Methodologies
+- CI/CD Implementation
+- Security Best Practices
+
+### 📈 Achievements
+- Reduced system response time by 70% through optimization
+- Implemented microservices architecture saving $50K annually
+- Led team of 5 developers in successful project delivery
+- Published multiple technical articles and tutorials
+
+### 🤝 Open for Opportunities
+- Full Stack Development Projects
+- AI/ML Integration
+- Technical Consultancy
+- Team Leadership Roles
+
+### 📫 Contact
 - **Email**: [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)
+- **Portfolio**: [kneeraazon.com](http://kneeraazon.com)
+- **Location**: Remote
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kneeraazon404&show_icons=true&theme=radical)
 
 ---
 
-### 🤝 **Let's Connect**
+<h3 align="center">Let's build something amazing together! 🚀</h3>
 
-- [LinkedIn](https://www.linkedin.com/in/kneeraazon)  
-- [GitHub](https://github.com/kneeraazon404)  
-- [Twitter (X)](https://www.x.com/kneeraazon)
-
----
-
-I'm always open to discussing exciting projects and new opportunities. Let’s connect!
+*References available upon request*
