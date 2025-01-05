@@ -3,7 +3,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kneeraazon404)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)
 
 ### About Me
