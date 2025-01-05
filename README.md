@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)
 
-Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-grade web applications. Specialized in Python ecosystem and modern web technologies.
+Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-grade web applications. I specialize in the Python ecosystem and modern web technologies.
 
 ### 💻 Technical Expertise
 
@@ -59,11 +59,6 @@ Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-g
     </td>
   </tr>
 </table>
-
-### 📫 Contact
-- **Email**: [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)
-- **Portfolio**: [kneeraazon.com](http://kneeraazon.com)
-- **Location**: Remote
 
 ---
 
