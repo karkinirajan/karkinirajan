@@ -37,32 +37,6 @@ Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-g
   </tr>
 </table>
 
-### 🚀 Key Projects & Achievements
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Impact</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td>AI Content Platform</td>
-    <td>
-      ▪ 100K+ daily requests<br>
-      ▪ Enhanced accuracy with RAG
-    </td>
-    <td>Python, FastAPI, React, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td>E-commerce Analytics</td>
-    <td>
-      ▪ 1M+ daily transactions<br>
-      ▪ 60% faster loading time
-    </td>
-    <td>Django, React, AWS</td>
-  </tr>
-</table>
-
 ### 🎯 Current Focus & Expertise
 
 <table>
