@@ -6,8 +6,6 @@ Ready to turn your wildest software dreams into a code-slinging reality? Look no
 
 As a seasoned backend developer with **5+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me well-equipped to tackle projects that enhance business processes and drive technical innovation.  
 
----
-
 <h2 align="center">My Stats</h2>
 
 <div align="center">
