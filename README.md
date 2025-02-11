@@ -9,7 +9,7 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 <h2 align="center">My Stats</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kneeraazon404&theme=dark" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kneeraazon404&theme=transparent" width=750  alt="stats graph"/>
 </div>
 
 <h2 align="center">Techs I Use</h2>
