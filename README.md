@@ -2,10 +2,6 @@
 
 ## Senior Python Developer & Full Stack Engineer  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)  
-
 Seasoned Full Stack Engineer with **6+ years** of expertise in building enterprise-grade web applications. I specialize in the **Python ecosystem** and modern web technologies, delivering scalable, high-performance solutions.  
 
 ---
