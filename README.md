@@ -60,6 +60,6 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
   <a href="http://kneeraazon.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio logo"  /></a>
 </div>
 
-<h3 align="center">**Or mail me directly at [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com).**</h3>
+<h3 align="center">**Or mail me directly at [kneeraazon@gmail.com](mailto:kneeraazon@gmail.com)**</h3>
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
