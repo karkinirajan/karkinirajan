@@ -48,10 +48,8 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 - 🎨 Frontend: React, Next.js  
 - 🌐 Web Servers: Nginx, Apache  
 - 📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask  
-- 🤖 AI and NLP: GPT, OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and more  
-
----
-
+- 🤖 AI and NLP: GPT, OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and more
+  
 ---
 
 <h2 align="center">Find Me</h2>
@@ -66,6 +64,3 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
   Or mail me directly at <a href="mailto:kneeraazon@gmail.com">kneeraazon@gmail.com</a>
 </h3>
 
----
-
-<h3 align="center">Let's build something amazing together! 🚀</h3>
