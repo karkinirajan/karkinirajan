@@ -1,7 +1,7 @@
 # Nirajan Karki  
 ## Senior Python Developer & Full Stack Engineer
 
-Hi there! I'm Nirajan, a passionate Full Stack Engineer with over 6 years of experience building enterprise-grade web applications. I specialize in the Python ecosystem, modern web technologies, and AI-powered solutions. I thrive on creating scalable, efficient systems that drive real business value.
+Hi, I'm Nirajan—a passionate Full Stack Engineer with over 6 years of experience building enterprise-grade web applications. I specialize in the Python ecosystem, modern web technologies, and AI-driven solutions, delivering scalable and high-performance applications.
 
 ---
 
@@ -15,39 +15,66 @@ Hi there! I'm Nirajan, a passionate Full Stack Engineer with over 6 years of exp
 
 ## Technical Expertise
 
-### Core Skills
-- **Python/Django** (Expert)
-- **React.js** (Advanced)
-- PostgreSQL / MongoDB
-- REST APIs / GraphQL
-
-### Cloud & DevOps
-- AWS Services
-- Docker / Kubernetes
-- CI/CD Pipelines
-- Linux / Nginx
-
-### AI & Data
-- LangChain / RAG
-- OpenAI / LLMs
-- TensorFlow
-- Data Analytics
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Core Skills</th>
+      <th style="text-align:left">Cloud &amp; DevOps</th>
+      <th style="text-align:left">AI &amp; Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        - **Python/Django (Expert)**<br>
+        - **React.js (Advanced)**<br>
+        - PostgreSQL / MongoDB<br>
+        - REST APIs / GraphQL
+      </td>
+      <td>
+        - AWS Services<br>
+        - Docker / Kubernetes<br>
+        - CI/CD Pipelines<br>
+        - Linux / Nginx
+      </td>
+      <td>
+        - LangChain / RAG<br>
+        - OpenAI / LLMs<br>
+        - TensorFlow<br>
+        - Data Analytics
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## Current Focus & Core Competencies
 
-### Current Focus
-- Microservices Architecture
-- AI-powered Solutions
-- High-performance Applications
-- Cloud Optimization
-
-### Core Competencies
-- System Architecture
-- Performance Optimization
-- Technical Leadership
-- Agile Development
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Current Focus</th>
+      <th style="text-align:left">Core Competencies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        - Microservices Architecture<br>
+        - AI-Powered Solutions<br>
+        - High-Performance Applications<br>
+        - Cloud Optimization
+      </td>
+      <td>
+        - System Architecture<br>
+        - Performance Optimization<br>
+        - Technical Leadership<br>
+        - Agile Development
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
