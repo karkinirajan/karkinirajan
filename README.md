@@ -7,9 +7,21 @@ Hi, I'm Nirajan—a passionate Full Stack Engineer with over 6 years of experien
 
 ## Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)
+<p align="center">
+  <a href="http://kneeraazon.com">
+    <img src="https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kneeraazon">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.x.com/kneeraazon">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
