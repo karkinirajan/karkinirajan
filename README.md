@@ -1,64 +1,53 @@
-# Nirajan Karki
+# Nirajan Karki  
 ## Senior Python Developer & Full Stack Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)
+Hi there! I'm Nirajan, a passionate Full Stack Engineer with over 6 years of experience building enterprise-grade web applications. I specialize in the Python ecosystem, modern web technologies, and AI-powered solutions. I thrive on creating scalable, efficient systems that drive real business value.
+
+---
+
+## Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)
 
-Seasoned Full Stack Engineer with 6+ years of expertise in building enterprise-grade web applications. I specialize in the Python ecosystem and modern web technologies.
+---
 
-### 💻 Technical Expertise
+## Technical Expertise
 
-<table>
-  <tr>
-    <th>Core Skills</th>
-    <th>Cloud & DevOps</th>
-    <th>AI & Data</th>
-  </tr>
-  <tr>
-    <td>
-      ▪ Python/Django (Expert)<br>
-      ▪ React.js (Advanced)<br>
-      ▪ PostgreSQL/MongoDB<br>
-      ▪ REST APIs/GraphQL
-    </td>
-    <td>
-      ▪ AWS Services<br>
-      ▪ Docker/Kubernetes<br>
-      ▪ CI/CD Pipelines<br>
-      ▪ Linux/Nginx
-    </td>
-    <td>
-      ▪ LangChain/RAG<br>
-      ▪ OpenAI/LLMs<br>
-      ▪ TensorFlow<br>
-      ▪ Data Analytics
-    </td>
-  </tr>
-</table>
+### Core Skills
+- **Python/Django** (Expert)
+- **React.js** (Advanced)
+- PostgreSQL / MongoDB
+- REST APIs / GraphQL
 
-### 🎯 Current Focus & Expertise
+### Cloud & DevOps
+- AWS Services
+- Docker / Kubernetes
+- CI/CD Pipelines
+- Linux / Nginx
 
-<table>
-  <tr>
-    <th>Current Focus</th>
-    <th>Core Competencies</th>
-  </tr>
-  <tr>
-    <td>
-      ▪ Microservices Architecture<br>
-      ▪ AI-powered Solutions<br>
-      ▪ High-performance Apps<br>
-      ▪ Cloud Optimization
-    </td>
-    <td>
-      ▪ System Architecture<br>
-      ▪ Performance Optimization<br>
-      ▪ Technical Leadership<br>
-      ▪ Agile Development
-    </td>
-  </tr>
-</table>
+### AI & Data
+- LangChain / RAG
+- OpenAI / LLMs
+- TensorFlow
+- Data Analytics
+
+---
+
+## Current Focus & Core Competencies
+
+### Current Focus
+- Microservices Architecture
+- AI-powered Solutions
+- High-performance Applications
+- Cloud Optimization
+
+### Core Competencies
+- System Architecture
+- Performance Optimization
+- Technical Leadership
+- Agile Development
 
 ---
 
