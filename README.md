@@ -1,8 +1,6 @@
 # Nirajan Karki  
 ## Senior Python Developer & Full Stack Engineer  
 
----
-
 Seasoned Full Stack Engineer with **6+ years** of expertise in building enterprise-grade web applications. I specialize in the **Python ecosystem** and modern web technologies, delivering scalable, high-performance solutions.  
 
 ---
