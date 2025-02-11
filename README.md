@@ -1,42 +1,51 @@
-# Nirajan Karki  
+# Hey, I'm Nirajan Karki! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ## Senior Python Developer & Full Stack Engineer  
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge)](http://kneeraazon.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneeraazon)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.x.com/kneeraazon)  
 
 Seasoned Full Stack Engineer with **6+ years** of expertise in building enterprise-grade web applications. I specialize in the **Python ecosystem** and modern web technologies, delivering scalable, high-performance solutions.  
 
 ---
 
-## 💻 Technical Expertise  
+<h2 align="center">My Stats</h2>
 
-| **Core Skills**              | **Cloud & DevOps**         | **AI & Data**               |  
-|------------------------------|----------------------------|-----------------------------|  
-| ▪ Python/Django (Expert)     | ▪ AWS Services             | ▪ LangChain/RAG             |  
-| ▪ React.js (Advanced)        | ▪ Docker/Kubernetes        | ▪ OpenAI/LLMs               |  
-| ▪ PostgreSQL/MongoDB         | ▪ CI/CD Pipelines          | ▪ TensorFlow                |  
-| ▪ REST APIs/GraphQL          | ▪ Linux/Nginx              | ▪ Data Analytics            |  
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kneeraazon404&theme=bear" width=750  alt="stats graph"/>
+</div>
 
 ---
 
-## 🎯 Current Focus & Expertise  
+<h2 align="center">Techs I Use</h2>
 
-| **Current Focus**            | **Core Competencies**      |  
-|------------------------------|----------------------------|  
-| ▪ Microservices Architecture | ▪ System Architecture      |  
-| ▪ AI-powered Solutions       | ▪ Performance Optimization |  
-| ▪ High-performance Apps      | ▪ Technical Leadership     |  
-| ▪ Cloud Optimization         | ▪ Agile Development        |  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" width="52" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+</div>
 
 ---
 
-## 📬 Contact Me  
+<h2 align="center">Find Me</h2>
 
-Let's collaborate and build something amazing! 🚀  
-
-- **Portfolio**: [kneeraazon.com](http://kneeraazon.com)  
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kneeraazon)  
-- **Twitter**: [Follow me](https://www.x.com/kneeraazon)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/kneeraazon" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.x.com/kneeraazon" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  /></a>
+  <a href="http://kneeraazon.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio logo"  /></a>
+</div>
 
 ---
 
-<h3 align="center">🚀 Let's innovate and create impactful solutions together!</h3>  
+<h3 align="center">Let's build something amazing together! 🚀</h3>
