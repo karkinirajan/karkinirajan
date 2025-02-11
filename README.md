@@ -1,93 +1,42 @@
 # Nirajan Karki  
-## Senior Python Developer & Full Stack Engineer
-
-Hi, I'm Nirajan—a passionate Full Stack Engineer with over 6 years of experience building enterprise-grade web applications. I specialize in the Python ecosystem, modern web technologies, and AI-driven solutions, delivering scalable and high-performance applications.
+## Senior Python Developer & Full Stack Engineer  
 
 ---
 
-## Connect with Me
-
-<p align="center">
-  <a href="http://kneeraazon.com">
-    <img src="https://img.shields.io/badge/Portfolio-kneeraazon.com-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kneeraazon">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.x.com/kneeraazon">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-</p>
+Seasoned Full Stack Engineer with **6+ years** of expertise in building enterprise-grade web applications. I specialize in the **Python ecosystem** and modern web technologies, delivering scalable, high-performance solutions.  
 
 ---
 
-## Technical Expertise
+## 💻 Technical Expertise  
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Core Skills</th>
-      <th style="text-align:left">Cloud &amp; DevOps</th>
-      <th style="text-align:left">AI &amp; Data</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        - **Python/Django (Expert)**<br>
-        - **React.js (Advanced)**<br>
-        - PostgreSQL / MongoDB<br>
-        - REST APIs / GraphQL
-      </td>
-      <td>
-        - AWS Services<br>
-        - Docker / Kubernetes<br>
-        - CI/CD Pipelines<br>
-        - Linux / Nginx
-      </td>
-      <td>
-        - LangChain / RAG<br>
-        - OpenAI / LLMs<br>
-        - TensorFlow<br>
-        - Data Analytics
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **Core Skills**               | **Cloud & DevOps**         | **AI & Data**               |  
+|-------------------------------|----------------------------|-----------------------------|  
+| ▪ Python/Django (Expert)      | ▪ AWS Services            | ▪ LangChain/RAG            |  
+| ▪ React.js (Advanced)         | ▪ Docker/Kubernetes       | ▪ OpenAI/LLMs              |  
+| ▪ PostgreSQL/MongoDB          | ▪ CI/CD Pipelines         | ▪ TensorFlow               |  
+| ▪ REST APIs/GraphQL           | ▪ Linux/Nginx             | ▪ Data Analytics           |  
 
 ---
 
-## Current Focus & Core Competencies
+## 🎯 Current Focus & Expertise  
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Current Focus</th>
-      <th style="text-align:left">Core Competencies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        - Microservices Architecture<br>
-        - AI-Powered Solutions<br>
-        - High-Performance Applications<br>
-        - Cloud Optimization
-      </td>
-      <td>
-        - System Architecture<br>
-        - Performance Optimization<br>
-        - Technical Leadership<br>
-        - Agile Development
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **Current Focus**             | **Core Competencies**      |  
+|-------------------------------|----------------------------|  
+| ▪ Microservices Architecture  | ▪ System Architecture     |  
+| ▪ AI-powered Solutions        | ▪ Performance Optimization|  
+| ▪ High-performance Apps       | ▪ Technical Leadership    |  
+| ▪ Cloud Optimization          | ▪ Agile Development       |  
 
 ---
 
-<h3 align="center">Let's build something amazing together! 🚀</h3>
+## 📞 Contact Me  
+
+Let's collaborate and build something amazing! 🚀  
+
+- **Portfolio**: [kneeraazon.com](http://kneeraazon.com)  
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kneeraazon)  
+- **Twitter**: [Follow me](https://www.x.com/kneeraazon)  
+
+---
+
+<h3 align="center">Let's innovate and create impactful solutions together! 🌟</h3>  
