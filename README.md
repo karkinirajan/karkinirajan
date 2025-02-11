@@ -2,7 +2,9 @@
 
 ## Senior Python Developer & Full Stack Engineer  
 
-Seasoned Full Stack Engineer with **6+ years** of expertise in building enterprise-grade web applications. I specialize in the **Python ecosystem** and modern web technologies, delivering scalable, high-performance solutions.  
+Ready to turn your wildest software dreams into a code-slinging reality? Look no further, your search for the ultimate developer ends here! ✨  
+
+As a seasoned backend developer with **5+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me well-equipped to tackle projects that enhance business processes and drive technical innovation.  
 
 ---
 
@@ -20,17 +22,44 @@ Seasoned Full Stack Engineer with **6+ years** of expertise in building enterpri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" width="52" alt="aws logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
+
+---
+
+<h2 align="center">Expertise</h2>
+
+### ✨ Core Expertise  
+- 🐍 Python  
+- 🌐 Django  
+- 🚀 Django REST Framework  
+- 🗄️ PostgreSQL  
+
+### 🔧 Technical Prowess  
+- 🔗 API Development  
+- 🗃️ Database Design and Management  
+- 📊 Data Structures and Algorithms  
+- 🏗️ Web Application Architecture  
+- 🛠️ Code Optimization and Debugging  
+
+### 📚 Additional Technologies and Libraries  
+- 🗄️ Databases: MongoDB, PostgreSQL  
+- 🎨 Frontend: React, Next.js  
+- 🌐 Web Servers: Nginx, Apache  
+- 📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask  
+- 🤖 AI and NLP: GPT, OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and more  
 
 ---
 
