@@ -37,32 +37,32 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 <h2 align="center">Expertise</h2>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; text-align: left;">
-    <div style="flex: 1; min-width: 250px;">
+  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px; text-align: left;">
+    <div style="width: 100%;">
       <h3>✨ Core Expertise</h3>
       <ul>
         <li>🐍 Python</li>
         <li>🌐 Django</li>
         <li>🚀 Django REST Framework</li>
-        <li><0xF0><0x9F><0x97><0x84>️ PostgreSQL</li>
+        <li>🗄️ PostgreSQL</li>
       </ul>
     </div>
 
-    <div style="flex: 1; min-width: 250px;">
+    <div style="width: 100%;">
       <h3>🔧 Technical Prowess</h3>
       <ul>
         <li>🔗 API Development</li>
-        <li><0xF0><0x9F><0x97><0x83>️ Database Design and Management</li>
+        <li>🗃️ Database Design and Management</li>
         <li>📊 Data Structures and Algorithms</li>
         <li>🏗️ Web Application Architecture</li>
         <li>🛠️ Code Optimization and Debugging</li>
       </ul>
     </div>
 
-    <div style="flex: 1; min-width: 250px;">
+    <div style="width: 100%;">
       <h3>📚 Additional Technologies and Libraries</h3>
       <ul>
-        <li><0xF0><0x9F><0x97><0x83>️ Databases: MongoDB, PostgreSQL</li>
+        <li>🗄️ Databases: MongoDB, PostgreSQL</li>
         <li>🎨 Frontend: React, Next.js</li>
         <li>🌐 Web Servers: Nginx, Apache</li>
         <li>📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask</li>
