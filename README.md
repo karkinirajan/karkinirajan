@@ -36,12 +36,12 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 
 <h2 align="center">Expertise</h2>
 
-| <th style="font-size: 1.2em; font-weight: bold;">✨ Core Expertise</th> | <th style="font-size: 1.2em; font-weight: bold;">🔧 Technical Prowess</th> | <th style="font-size: 1.2em; font-weight: bold;">📚 Additional Technologies and Libraries</th> |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| <small>- 🐍 Python</small>                                          | <small>- 🔗 API Development</small>                                   | <small>- 🗄️ Databases: MongoDB, PostgreSQL</small>                         |
-| <small>- 🌐 Django</small>                                          | <small>- 🗃️ Database Design and Management</small>                     | <small>- 🎨 Frontend: React, Next.js</small>                               |
-| <small>- 🚀 Django REST Framework</small>                             | <small>- 📊 Data Structures and Algorithms</small>                     | <small>- 🌐 Web Servers: Nginx, Apache</small>                              |
-| <small>- 🗄️ PostgreSQL</small>                                        | <small>- 🏗️ Web Application Architecture</small>                     | <small>- 📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask</small> |
-|                                                                     | <small>- 🛠️ Code Optimization and Debugging</small>                     | <small>- 🤖 AI and NLP: GPT, OpenAI, LangChain, RAG, and more</small>         |
+| **✨ Core Expertise** | **🔧 Technical Prowess** | **📚 Additional Technologies and Libraries** |
+| :----------------------------- | :-------------------------------- | :--------------------------------------- |
+| - Python                       | - API Development                 | - Databases: MongoDB, PostgreSQL         |
+| - Django                       | - Database Design and Management    | - Frontend: React, Next.js               |
+| - Django REST Framework        | - Data Structures and Algorithms    | - Web Servers: Nginx, Apache            |
+| - PostgreSQL                   | - Web Application Architecture    | - Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask |
+|                               | - Code Optimization and Debugging   | - AI and NLP: GPT, OpenAI, LangChain, RAG, and more |
 
 ---
