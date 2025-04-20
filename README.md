@@ -16,6 +16,6 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 | - Django              | - Database Design & Mgmt | - Frontend: React, Next.js                 |
 | - DRF                 | - Data Struct. & Algo.   | - Web Servers: Nginx, Apache              |
 | - Flask               | - Web App Architecture   | - Python Libraries: Pandas, NumPy, ...       |
-| - PostgreSQL          | - Code Opt. & Debugging  | - AI and NLP: GPT, OpenAI, ...              |
+| - SQL                 | - Code Opt. & Debugging  | - AI and NLP: GPT, OpenAI, ...              |
 
 ---
