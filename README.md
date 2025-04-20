@@ -1,8 +1,8 @@
 # Hey, I'm Nirajan Karki! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Senior Python Developer & Full Stack Engineer  
+## Senior Python Developer & Full Stack Engineer
 
-Ready to turn your wildest software dreams into a code-slinging reality? Look no further, your search for the ultimate developer ends here! ✨  
+Ready to turn your wildest software dreams into a code-slinging reality? Look no further, your search for the ultimate developer ends here! ✨
 
 As a seasoned backend developer with **6+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me a versatile and reliable partner for your next big project.
 
@@ -38,14 +38,13 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 
 <div align="center">
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; text-align: left;">
-
     <div style="flex: 1; min-width: 250px;">
       <h3>✨ Core Expertise</h3>
       <ul>
         <li>🐍 Python</li>
         <li>🌐 Django</li>
         <li>🚀 Django REST Framework</li>
-        <li>🗄️ PostgreSQL</li>
+        <li><0xF0><0x9F><0x97><0x84>️ PostgreSQL</li>
       </ul>
     </div>
 
@@ -53,7 +52,7 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
       <h3>🔧 Technical Prowess</h3>
       <ul>
         <li>🔗 API Development</li>
-        <li>🗃️ Database Design and Management</li>
+        <li><0xF0><0x9F><0x97><0x83>️ Database Design and Management</li>
         <li>📊 Data Structures and Algorithms</li>
         <li>🏗️ Web Application Architecture</li>
         <li>🛠️ Code Optimization and Debugging</li>
@@ -63,14 +62,13 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
     <div style="flex: 1; min-width: 250px;">
       <h3>📚 Additional Technologies and Libraries</h3>
       <ul>
-        <li>🗄️ Databases: MongoDB, PostgreSQL</li>
+        <li><0xF0><0x9F><0x97><0x83>️ Databases: MongoDB, PostgreSQL</li>
         <li>🎨 Frontend: React, Next.js</li>
         <li>🌐 Web Servers: Nginx, Apache</li>
         <li>📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask</li>
         <li>🤖 AI and NLP: GPT, OpenAI, LangChain, RAG, and more</li>
       </ul>
     </div>
-
   </div>
 </div>
 
