@@ -9,9 +9,9 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 ---
 | **✨ Core Expertise** | **🔧 Technical Prowess** | **📚 Additional Technologies and Libraries** |
 | :-------------------- | :----------------------- | :------------------------------------------ |
-| - Python              | - API Development        | - Databases: MongoDB, PostgreSQL           |
-| - Django              | - Database Design & Mgmt | - Frontend: React, Next.js                 |
+| - Python              | - API Development        | - Databases: MongoDB, PostgreSQL, Redis          |
+| - Django              | - Database Design & Mgmt | - Frontend: React, Next.js, TailwindCSS               |
 | - DRF                 | - Data Struct. & Algo.   | - Web Servers: Nginx, Apache              |
-| - Flask               | - Web App Architecture   | - Python Libraries: Pandas, NumPy, ...       |
-| - SQL                 | - Code Opt. & Debugging  | - AI and NLP: GPT, OpenAI, ...              |
+| - Flask               | - Web App Architecture   | - Python Libraries: Pandas, NumPy, Matplotlib, ...     |
+| - SQL                 | - Code Opt. & Debugging  | - AI and NLP: GPT, OpenAI, LangChain, RAG, ...              |
 
