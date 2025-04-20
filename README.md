@@ -7,9 +7,6 @@ Ready to turn your wildest software dreams into a code-slinging reality? Look no
 As a seasoned backend developer with **6+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me a versatile and reliable partner for your next big project.
 
 ---
-
-<h2 align="center">Expertise</h2>
-
 | **✨ Core Expertise** | **🔧 Technical Prowess** | **📚 Additional Technologies and Libraries** |
 | :-------------------- | :----------------------- | :------------------------------------------ |
 | - Python              | - API Development        | - Databases: MongoDB, PostgreSQL           |
@@ -18,4 +15,3 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 | - Flask               | - Web App Architecture   | - Python Libraries: Pandas, NumPy, ...       |
 | - SQL                 | - Code Opt. & Debugging  | - AI and NLP: GPT, OpenAI, ...              |
 
----
