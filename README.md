@@ -36,40 +36,42 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 
 <h2 align="center">Expertise</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: left;">
+<div align="center">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; text-align: left;">
 
-  <div>
-    <h3>✨ Core Expertise</h3>
-    <ul>
-      <li>🐍 Python</li>
-      <li>🌐 Django</li>
-      <li>🚀 Django REST Framework</li>
-      <li>🗄️ PostgreSQL</li>
-    </ul>
+    <div style="flex: 1; min-width: 250px;">
+      <h3>✨ Core Expertise</h3>
+      <ul>
+        <li>🐍 Python</li>
+        <li>🌐 Django</li>
+        <li>🚀 Django REST Framework</li>
+        <li>🗄️ PostgreSQL</li>
+      </ul>
+    </div>
+
+    <div style="flex: 1; min-width: 250px;">
+      <h3>🔧 Technical Prowess</h3>
+      <ul>
+        <li>🔗 API Development</li>
+        <li>🗃️ Database Design and Management</li>
+        <li>📊 Data Structures and Algorithms</li>
+        <li>🏗️ Web Application Architecture</li>
+        <li>🛠️ Code Optimization and Debugging</li>
+      </ul>
+    </div>
+
+    <div style="flex: 1; min-width: 250px;">
+      <h3>📚 Additional Technologies and Libraries</h3>
+      <ul>
+        <li>🗄️ Databases: MongoDB, PostgreSQL</li>
+        <li>🎨 Frontend: React, Next.js</li>
+        <li>🌐 Web Servers: Nginx, Apache</li>
+        <li>📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask</li>
+        <li>🤖 AI and NLP: GPT, OpenAI, LangChain, RAG, and more</li>
+      </ul>
+    </div>
+
   </div>
-
-  <div>
-    <h3>🔧 Technical Prowess</h3>
-    <ul>
-      <li>🔗 API Development</li>
-      <li>🗃️ Database Design and Management</li>
-      <li>📊 Data Structures and Algorithms</li>
-      <li>🏗️ Web Application Architecture</li>
-      <li>🛠️ Code Optimization and Debugging</li>
-    </ul>
-  </div>
-
-  <div>
-    <h3>📚 Additional Technologies and Libraries</h3>
-    <ul>
-      <li>🗄️ Databases: MongoDB, PostgreSQL</li>
-      <li>🎨 Frontend: React, Next.js</li>
-      <li>🌐 Web Servers: Nginx, Apache</li>
-      <li>📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask</li>
-      <li>🤖 AI and NLP: GPT, OpenAI, LangChain, RAG, and more</li>
-    </ul>
-  </div>
-
 </div>
 
 ---
