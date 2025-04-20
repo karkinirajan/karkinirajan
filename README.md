@@ -4,13 +4,17 @@
 
 Ready to turn your wildest software dreams into a code-slinging reality? Look no further, your search for the ultimate developer ends here! ✨  
 
-As a seasoned backend developer with **6+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me well-equipped to tackle projects that enhance business processes and drive technical innovation.  
+As a seasoned backend developer with **6+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me a versatile and reliable partner for your next big project.
+
+---
 
 <h2 align="center">My Stats</h2>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kneeraazon404&theme=react" width=850  alt="stats graph"/>
 </div>
+
+---
 
 <h2 align="center">Techs I Use</h2>
 
@@ -28,7 +32,7 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
 
---- 
+---
 
 <h2 align="center">Expertise</h2>
 
@@ -67,3 +71,5 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
   </div>
 
 </div>
+
+---
