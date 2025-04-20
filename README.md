@@ -51,18 +51,5 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 - 🌐 Web Servers: Nginx, Apache  
 - 📦 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, FastAPI, Flask  
 - 🤖 AI and NLP: GPT, OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and more
-  
----
-
-<h2 align="center">Find Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kneeraazon" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.x.com/kneeraazon" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  /></a>
-  <a href="http://kneeraazon.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio logo"  /></a>
-</div>
-
-<h3 align="center" style="font-weight: bold;">
-  Or mail me directly at <a href="mailto:kneeraazon@gmail.com">kneeraazon@gmail.com</a>
-</h3>
+-
 
