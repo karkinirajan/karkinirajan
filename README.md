@@ -1,5 +1,5 @@
 # Hello there, I'm Nirajan Karki! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+---
 ## Senior Python Developer & Full Stack Engineer
 
 Ready to turn your wildest software dreams into a code-slinging reality? Look no further, your search for the ultimate developer ends here! ✨
