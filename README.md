@@ -8,14 +8,6 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 
 ---
 
-<h2 align="center">My Stats</h2>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kneeraazon404&theme=react" width=850  alt="stats graph"/>
-</div>
-
----
-
 <h2 align="center">Techs I Use</h2>
 
 <div align="center">
