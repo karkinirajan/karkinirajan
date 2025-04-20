@@ -37,8 +37,8 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 <h2 align="center">Expertise</h2>
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px; text-align: left;">
-    <div style="width: 100%;">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; text-align: left;">
+    <div style="flex: 1; min-width: 250px;">
       <h3>✨ Core Expertise</h3>
       <ul>
         <li>🐍 Python</li>
@@ -48,7 +48,7 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
       </ul>
     </div>
 
-    <div style="width: 100%;">
+    <div style="flex: 1; min-width: 250px;">
       <h3>🔧 Technical Prowess</h3>
       <ul>
         <li>🔗 API Development</li>
@@ -59,7 +59,7 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
       </ul>
     </div>
 
-    <div style="width: 100%;">
+    <div style="flex: 1; min-width: 250px;">
       <h3>📚 Additional Technologies and Libraries</h3>
       <ul>
         <li>🗄️ Databases: MongoDB, PostgreSQL</li>
