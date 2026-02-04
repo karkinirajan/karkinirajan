@@ -1,11 +1,10 @@
-# Hello there, This is Nirajan Karki!
+# Namaste! This is Nirajan Karki!
 ## Senior Python Developer & Full Stack Engineer
 
-Ready to turn your wildest software dreams into a code-slinging reality? Look no further, your search for the ultimate developer ends here! ✨
-
-As a seasoned backend developer with **6+ years** of professional experience, I specialize in turning complex ideas into powerful, scalable applications. My expertise spans various disciplines, making me a versatile and reliable partner for your next big project.
+I'm a backend developer with 6+ years of professional experience building scalable applications. I work with Python, Django, and modern web technologies to solve complex technical problems.
 
 ---
+
 | **✨ Core Expertise** | **🔧 Technical Prowess** | **📚 Additional Technologies and Libraries** |
 | :-------------------- | :----------------------- | :------------------------------------------ |
 | - Python              | - API Development        | - Databases: MongoDB, PostgreSQL, Redis, ... |
@@ -13,4 +12,3 @@ As a seasoned backend developer with **6+ years** of professional experience, I 
 | - DRF                 | - Data Structures & Algorithm   | - Web Servers: Nginx, Apache, ...  |
 | - Flask               | - Full-stack Web  Development   | - Python Libraries: Pandas, NumPy, Matplotlib, ... |
 | - SQL                 | - Code Optimization & Debugging  | - AI and NLP: GPT, OpenAI, LangChain, RAG, ...  |
-
