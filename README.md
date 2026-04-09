@@ -24,5 +24,3 @@ AI systems that work in production rather than in demos — RAG pipelines that r
 ---
 
 If you need backend, frontend, AI integration, and cloud deployment done properly the first time, that is what I do.
-
-**[kneeraazon@gmail.com](mailto:kneeraazon@gmail.com) &nbsp;|&nbsp; [kneeraazon.com](https://kneeraazon.com) &nbsp;|&nbsp; [Upwork](https://www.upwork.com/freelancers/kneeraazon)**
