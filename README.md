@@ -4,9 +4,7 @@
 
 ---
 
-Python and AI engineer with 6+ years building production systems, backend through frontend, with LLM and automation layers that earn their keep. I have delivered trading platforms with real-time data feeds, RAG pipelines grounded in internal documents, workflow automation replacing manual processes, and full-stack applications taken from blank repository to production.
-
----
+Python and AI engineer with 6+ years building production systems, backend through frontend, with LLM and automation layers that earn their keep. I have delivered trading platforms with real-time data feeds, RAG pipelines grounded in internal documents, workflow automation replacing manual processes, and full-stack applications taken from a blank repository to production.
 
 ## What I Build
 
