@@ -17,4 +17,4 @@ Python and AI engineer with 7+ years building production systems, backend throug
 
 If you need AI integration, backend systems, frontend, or cloud deployment done right the first time, I can help.
 
-**[kneeraazon@gmail.com](mailto:kneeraazon@gmail.com) &nbsp;|&nbsp; [kneeraazon.com](https://kneeraazon.com) &nbsp;|&nbsp; [Upwork]([https://www.upwork.com/freelancers/kneeraazon](https://www.upwork.com/freelancers/~01096a610adbdca73f))**
+**[kneeraazon@gmail.com](mailto:kneeraazon@gmail.com) &nbsp;|&nbsp; [kneeraazon.com](https://kneeraazon.com) &nbsp;|&nbsp; [Upwork]((https://www.upwork.com/freelancers/~01096a610adbdca73f))**
