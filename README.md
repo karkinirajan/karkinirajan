@@ -1,10 +1,14 @@
-# Namaste, I'm Nirajan Karki
+# Nirajan Karki — AI/LLM Engineer & Python Backend Developer
+Top Rated on Upwork · 100% Job Success · 104+ projects delivered
 
-## Senior Full Stack & AI Engineer
+I build RAG pipelines and LLM systems that ship to production and cut cost.
+7 years across backend, AI, and cloud.
 
-Python and AI engineer with 7+ years building production systems, backend through frontend, with LLM and automation layers that earn their keep. I have delivered trading platforms with real-time data feeds, RAG pipelines grounded in internal documents, workflow automation replacing manual processes, and full-stack applications taken from a blank repository to production.
-
-## Tools & Technologies
+**Selected production results**
+- 41% GPT inference cost cut via custom RAG (no accuracy loss)
+- 72% API latency reduction (async FastAPI + Redis)
+- 12,000 RPM at 99.99% uptime (Django monolith → microservices)
+- 2M+ events/day at 37ms avg latency (containerized, PostgreSQL sharding)
 
 | Layer | Tools/Technologies |
 | :--- | :--- |
