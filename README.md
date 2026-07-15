@@ -31,4 +31,6 @@ I build RAG pipelines and LLM systems that ship to production and cut cost.
 - **Multi-source data analytics platform** — event-driven ETL at scale
 - **Finance tracker SaaS** — full-stack Next.js + FastAPI
 
+## Reach out to me:
+
 📫 kneeraazon@gmail.com · [kneeraazon.com](https://kneeraazon.com) · [Upwork](https://www.upwork.com/freelancers/nirajankarki) · [LinkedIn](https://linkedin.com/in/kneeraazon)
