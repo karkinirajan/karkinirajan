@@ -27,7 +27,7 @@ I build RAG pipelines and LLM systems that ship to production and cut cost.
 ## Selected work
 
 - **Delta-hedging platform** — real-time fintech risk engine
-- **Voice AI platform** — [ttstt.vercel.app](https://ttstt.vercel.app)
+- **Voice AI platform** 
 - **Multi-source data analytics platform** — event-driven ETL at scale
 - **Finance tracker SaaS** — full-stack Next.js + FastAPI
 
