@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — novatab</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+    color: #1a1a1a;
+    background: #fff;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { color: #e6e6e6; background: #14161a; }
+    a { color: #8ab4ff; }
+    table, th, td { border-color: #333 !important; }
+    th { background: #1f2227 !important; }
+    code { background: #1f2227; }
+  }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  h2 { font-size: 19px; margin-top: 36px; border-bottom: 1px solid currentColor; opacity: 0.95; padding-bottom: 6px; }
+  .updated { opacity: 0.7; font-size: 14px; margin-top: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+  th, td { border: 1px solid #ddd; padding: 8px 10px; text-align: left; vertical-align: top; }
+  th { background: #f5f5f5; }
+  code { background: rgba(127,127,127,.15); padding: 1px 5px; border-radius: 4px; font-size: 13px; }
+  ul { padding-left: 22px; }
+  .note { font-size: 14px; opacity: 0.8; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy for novatab</h1>
+<p class="updated">Last updated: June 14, 2026</p>
+
+<p>
+novatab ("the extension", "we", "our") is a Chrome new-tab dashboard extension.
+This policy explains what data novatab accesses, where it is stored, and what —
+if anything — leaves your device. novatab has <strong>no servers of its own</strong>:
+there is no analytics, no telemetry, and no account system run by the developer.
+</p>
+
+<h2>1. Summary</h2>
+<ul>
+  <li>All of your data (bookmarks, notes, tasks, journal, habits, settings, etc.) is stored locally on your device using Chrome's <code>storage.local</code> API.</li>
+  <li>Optional Google Drive sync stores an encrypted or plain backup of that same data in a hidden, app-private folder in <em>your</em> Google Drive — we cannot access it.</li>
+  <li>Optional AI features send your prompt (and only your prompt) directly from your browser to Anthropic, using an API key <em>you</em> provide and store on your own device.</li>
+  <li>We do not sell, rent, or share your data with any third party. We do not run ads or trackers.</li>
+  <li>Uninstalling the extension, or clearing its storage, deletes all locally stored data.</li>
+</ul>
+
+<h2>2. Data Stored Locally (on your device only)</h2>
+<p>novatab stores the following in Chrome's <code>storage.local</code>, which is sandboxed to this extension and never transmitted anywhere by novatab itself unless described in §4–§5 below:</p>
+<ul>
+  <li>Workspaces, bookmarks, notes, and tasks you create or import</li>
+  <li>Journal entries, mood logs, and habit-tracker history</li>
+  <li>Kanban boards, reading queue, and saved tab sessions</li>
+  <li>Calendar events, focus-mode settings, and blocked-site lists</li>
+  <li>Theme, accent color, wallpaper choice, and other display preferences</li>
+  <li>Your Google OAuth access/refresh tokens, if you sign in (see §4)</li>
+  <li>Your Anthropic API key, if you enable AI features (see §5) — stored under a separate, non-synced key and excluded from Drive backups</li>
+</ul>
+
+<h2>3. Permissions novatab Requests, and Why</h2>
+<table>
+  <tr><th>Permission</th><th>What it's used for</th><th>Leaves your device?</th></tr>
+  <tr><td><code>storage</code></td><td>Save all the data above locally.</td><td>No</td></tr>
+  <tr><td><code>tabs</code></td><td>List your open tabs for Tab Sessions, Smart Organize, and Omni-Search; switch to a tab you select.</td><td>Only if you use Smart Organize with AI enabled (see §5)</td></tr>
+  <tr><td><code>bookmarks</code></td><td>Read and write your Chrome bookmarks for the Bookmark Manager and import features.</td><td>No</td></tr>
+  <tr><td><code>history</code></td><td>Search your browsing history for the History viewer, Analytics, and Omni-Search.</td><td>No</td></tr>
+  <tr><td><code>downloads</code></td><td>Show your recent downloads in the Downloads viewer.</td><td>No</td></tr>
+  <tr><td><code>topSites</code></td><td>Show your most-visited sites in the Analytics view.</td><td>No</td></tr>
+  <tr><td><code>identity</code></td><td>Sign in with Google via Chrome's secure OAuth flow (PKCE), for optional Drive sync.</td><td>Yes — to Google's own OAuth servers, see §4</td></tr>
+  <tr><td><code>identity.email</code></td><td>Display the email address of the Chrome profile you're signed into, as a convenience label.</td><td>No</td></tr>
+  <tr><td><code>geolocation</code></td><td>Auto-detect your city for the Weather widget.</td><td>Yes — to a geocoding/weather service, see §7</td></tr>
+  <tr><td><code>declarativeNetRequest</code></td><td>Block sites you choose while a Focus Mode session is running.</td><td>No — rules are evaluated entirely on-device by Chrome</td></tr>
+</table>
+
+<h2>4. Google Account Sign-In and Drive Sync (optional)</h2>
+<p>
+If you choose to sign in with Google, novatab uses <code>chrome.identity.launchWebAuthFlow</code> with PKCE
+to obtain an access token and a refresh token for the following scopes:
+</p>
+<ul>
+  <li><code>userinfo.email</code> and <code>userinfo.profile</code> — to show your name/email in the sidebar</li>
+  <li><code>drive.appdata</code> — to read and write a single backup file in your Drive's hidden, app-specific data folder</li>
+</ul>
+<p>
+The <code>drive.appdata</code> scope is intentionally restrictive: it grants access <strong>only</strong> to a hidden
+folder that belongs to novatab — it cannot see, list, or modify any other file in your Google Drive.
+Tokens are stored only in <code>chrome.storage.local</code> on your device and are never sent anywhere
+except Google's own token endpoints (<code>oauth2.googleapis.com</code>) and Drive API (<code>www.googleapis.com</code>).
+</p>
+<p>
+<strong>Optional end-to-end encryption:</strong> if you set a passphrase, your Drive backup is encrypted
+on-device with AES-GCM (key derived via PBKDF2) before upload. Your passphrase is never stored or transmitted —
+if you lose it, the backup cannot be recovered, including by us.
+</p>
+<p class="note">
+novatab's use and transfer of information received from Google APIs adheres to the
+<a href="https://developers.google.com/terms/api-services-user-data-policy" target="_blank" rel="noopener">Google API Services User Data Policy</a>,
+including the Limited Use requirements. Your Google data is used solely to provide the sync feature you explicitly
+enabled, is never used for advertising, and is never transferred to any third party.
+</p>
+
+<h2>5. Optional AI Features (Anthropic)</h2>
+<p>
+novatab includes an AI command bar, an AI daily briefing, and AI-assisted "Smart Organize". These features
+are <strong>off by default</strong> and require you to enter your own Anthropic API key in Settings.
+</p>
+<p>When enabled, the following is sent directly from your browser to <code>https://api.anthropic.com/v1/messages</code>, using your API key:</p>
+<ul>
+  <li><strong>Ask AI / command bar:</strong> the text you typed</li>
+  <li><strong>Daily briefing:</strong> a short summary of the current weather and the titles of your pending tasks for today</li>
+  <li><strong>Smart Organize:</strong> the titles and URLs of your currently open tabs, plus the names of your existing workspaces</li>
+</ul>
+<p>
+This data is sent only to Anthropic, governed by
+<a href="https://www.anthropic.com/legal/privacy" target="_blank" rel="noopener">Anthropic's Privacy Policy</a>.
+novatab's developer never receives, stores, or has access to this data or your API key — the key is stored
+only in your local <code>chrome.storage.local</code>, is excluded from Drive sync and end-to-end encrypted
+backups, and is sent only in the <code>x-api-key</code> header of requests you initiate.
+</p>
+
+<h2>6. Optional Voice Capture (Web Speech API)</h2>
+<p>
+If you use Voice Capture, your microphone audio is processed by your browser's built-in speech-recognition
+service (governed by your browser vendor's own privacy policy, e.g. Chrome's), not by novatab or its developer.
+novatab only receives the resulting transcribed text, which is stored locally like any note, task, or journal entry.
+</p>
+
+<h2>7. Weather and Location</h2>
+<p>To show local weather, novatab tries the following, in order, stopping as soon as one succeeds:</p>
+<ul>
+  <li>Your device's GPS coordinates (if you grant the <code>geolocation</code> permission), reverse-geocoded to a city name via <a href="https://nominatim.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap Nominatim</a></li>
+  <li>Your approximate location based on your IP address, via <a href="https://ipwho.is" target="_blank" rel="noopener">ipwho.is</a></li>
+  <li>A manually entered city name, if you set one in Settings</li>
+</ul>
+<p>The resulting city/coordinates are sent to <a href="https://wttr.in" target="_blank" rel="noopener">wttr.in</a> to retrieve current conditions and a 3-day forecast. None of these services receive any other novatab data.</p>
+
+<h2>8. Other Third-Party Services</h2>
+<table>
+  <tr><th>Service</th><th>Purpose</th><th>Data sent</th></tr>
+  <tr><td><code>fonts.googleapis.com</code> / <code>fonts.gstatic.com</code></td><td>Load Inter &amp; Playfair Display fonts</td><td>Standard font-request traffic only</td></tr>
+  <tr><td><code>picsum.photos</code></td><td>Random wallpaper images</td><td>None (anonymous image request)</td></tr>
+  <tr><td><code>motivational-spark-api.vercel.app</code></td><td>Daily motivational quote</td><td>None</td></tr>
+</table>
+
+<h2>9. Data Retention and Deletion</h2>
+<p>
+All local data lives in Chrome's <code>storage.local</code> for this extension and is deleted automatically
+when you uninstall novatab, or immediately if you use the "Clear All Data" option in Settings → Data Management.
+If you enabled Drive sync, you can delete your backup at any time by revoking novatab's access at
+<a href="https://myaccount.google.com/permissions" target="_blank" rel="noopener">myaccount.google.com/permissions</a>,
+which removes novatab's hidden app-data folder along with it.
+</p>
+
+<h2>10. Security</h2>
+<ul>
+  <li>All user-generated content is HTML-escaped before being displayed — no <code>eval</code>, no <code>innerHTML</code> with unsanitized input.</li>
+  <li>All user-supplied URLs are validated to be <code>http(s)</code> only.</li>
+  <li>OAuth tokens are stored only in <code>chrome.storage.local</code>, never in <code>chrome.storage.sync</code>.</li>
+  <li>All network requests novatab makes are over HTTPS.</li>
+</ul>
+
+<h2>11. Children's Privacy</h2>
+<p>novatab is not directed at children under 13 and does not knowingly collect data from children.</p>
+
+<h2>12. Changes to This Policy</h2>
+<p>If this policy changes, the "Last updated" date above will be revised. Material changes will be noted in the extension's release notes on the Chrome Web Store.</p>
+
+<h2>13. Contact</h2>
+<p>Questions about this policy or your data: <a href="mailto:karkinirajan1999@gmail.com">karkinirajan1999@gmail.com</a></p>
+
+</body>
+</html>
