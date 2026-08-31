@@ -4,11 +4,11 @@
 I build RAG pipelines and LLM systems that ship to production and cut cost. 7 years across backend, AI, and cloud infrastructure.
 
 ## Impact
-- Cut GPT inference cost by re-architecting a RAG pipeline to eliminate redundant API calls, with no drop in output accuracy
+- Cut GPT inference cost by re-architecting a RAG pipeline to eliminate redundant API calls
 - Cut API latency with an async FastAPI + Redis redesign — request batching and query optimization
-- Decomposed a Django monolith into microservices via a zero-downtime migration, holding high throughput at near-perfect uptime
-- Built a containerized ingestion pipeline processing millions of events daily at low per-request latency, using PostgreSQL sharding
-- Collapsed release cycles from days to hours with GitHub Actions CI/CD — lint → test → build → deploy
+- Decomposed a Django monolith into microservices via a zero-downtime migration
+- Built a containerized ingestion pipeline processing millions of events daily
+- Collapsed release cycles from days to hours with GitHub Actions CI/CD
 - Rightsized AWS infrastructure for a meaningful cut in monthly cloud spend
 
 ## Stack
