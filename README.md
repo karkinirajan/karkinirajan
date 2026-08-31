@@ -14,7 +14,7 @@ I build RAG pipelines and LLM systems that ship to production and cut cost. 7 ye
 ## Stack
 | Layer     | Tools                                                                  |
 |-----------|--------------------------------------------------------------------------|
-| AI/LLM    | GPT-4o, Claude, Gemini, LangChain, LlamaIndex, RAG, pgvector, Pinecone |
+| AI/LLM    | GPT, Claude, Gemini, LangChain, LlamaIndex, RAGs, pgvector, Agentic AI |
 | Backend   | Django, DRF, FastAPI, Flask, Celery, AsyncIO, WebSockets               |
 | Frontend  | React, Next.js (App Router), TypeScript, Tailwind CSS                  |
 | Data      | PostgreSQL, MongoDB, Redis, Elasticsearch, Supabase                    |
