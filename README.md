@@ -1,5 +1,4 @@
 # AI/LLM Engineer & Python Backend Developer
-**Top Rated on Upwork · 100% Job Success · 104+ projects delivered**
 
 I build RAG pipelines and LLM systems that ship to production and cut costs. 7 years across backend, AI, and cloud infrastructure.
 
