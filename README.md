@@ -19,15 +19,5 @@ I build **production GenAI systems** — RAG pipelines, LLM agents, and the back
 | Data     | PostgreSQL, MongoDB, Redis, Supabase |
 | DevOps   | AWS, GCP, Azure, Docker, Kubernetes, Nginx, GitHub Actions |
 
-## Selected work
-| Project | What it does |
-|---------|--------------|
-| [tcm-med-ai](https://github.com/karkinirajan/tcm-med-ai) | RAG API for Traditional Chinese Medicine — LLM symptom extraction → Pinecone vector search → Cohere rerank (FastAPI, MongoDB) |
-| [smart-claim-ai](https://github.com/karkinirajan/smart-claim-ai) | Medical billing compliance — LLM structured output checks forms field-by-field against Medicare guidelines (Next.js, Claude) |
-| [ai-recruitment-cli-agent](https://github.com/karkinirajan/ai-recruitment-cli-agent) | CV screening agent that ranks candidates against a job description with Gemini and pushes results to Notion |
-| [revops-lead-scoring-platform](https://github.com/karkinirajan/revops-lead-scoring-platform) | Queue-based lead scoring pipeline built for production workloads |
-| [fastsapp-ai-agent](https://github.com/karkinirajan/fastsapp-ai-agent) | WhatsApp chatbot agent on OpenAI |
-| [ttstt](https://github.com/karkinirajan/ttstt) | Voice-tech intelligence radar covering speech-to-text and text-to-speech (Next.js) |
-
 ## Reach out
 📫 kneeraazon@gmail.com · [kneeraazon.com](https://kneeraazon.com) · [Upwork](https://www.upwork.com/freelancers/nirajankarki) · [LinkedIn](https://linkedin.com/in/kneeraazon)
