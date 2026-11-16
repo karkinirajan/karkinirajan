@@ -5,7 +5,7 @@ I build **production AI systems, Python backends, and full-stack web products** 
 ## What I build
 - **AI agents, RAG & compliance workflows** — structured OpenAI, Claude, Gemini, and Groq pipelines; LangChain/LangGraph agents and FastMCP tool servers; Pinecone + Cohere Rerank + pgvector retrieval; and Zep memory (*Pilot AI Console*, *SmartClaim AI*, *FastKwan TCM API*, *AI Recruitment CLI*).
 - **Scoring, quantitative & risk systems** — B2B lead scoring with a live formula + shadow XGBoost model (*RevOps*), Black–Scholes option delta hedging on broker APIs (*Delta Hedging Platform*), and deterministic quantitative regime routing.
-- **Python backends & APIs** — FastAPI, Django 5 LTS / DRF, Flask, Celery + Redis workers, SQLAlchemy / Alembic, signed CRM webhooks, and token/session security (*Kruxova MSDAT API*, *Clarity Enterprise*, *CBT Recovery Coach*).
+- **Python backends & APIs** — FastAPI, Django 6 LTS / DRF, Flask, Celery + Redis workers, SQLAlchemy / Alembic, signed CRM webhooks, and token/session security (*Kruxova MSDAT API*, *Clarity Enterprise*, *CBT Recovery Coach*).
 - **Full-stack web & local-first apps** — Next.js 16, React 19, TypeScript, Nuxt 4, Three.js storefronts, bilingual RSS/LLM news readers, and Chrome Manifest V3 workspaces with Web Crypto sync (*TexecN*, *EkJhalak*, *Sheesh Shoes*, *Nestpane*).
 
 ## How I work
